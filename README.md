@@ -17,5 +17,5 @@ Your goal is to connect anonymized data back to its source data and check the ma
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook.
 
-# Ethics Statement
+## Ethics Statement
 As a Computer Science and Engineering student, I am committed to ensuring that my code does not cause harm to others. I hold myself accountable by thoroughly testing and reviewing any code I create before publishing it to others, as well as monitoring released code to ensure there are no unintended consequences. Additionally, I am committed to maintaining complete transparency where appropriate, especially when it comes to the use of AI in areas that could negatively impact users.
